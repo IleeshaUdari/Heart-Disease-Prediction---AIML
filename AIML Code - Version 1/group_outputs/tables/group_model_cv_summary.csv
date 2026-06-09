@@ -1,0 +1,4 @@
+Model,Best ROC-AUC (CV),Best Parameters
+Logistic Regression,0.9031879553618684,"{'C': 0.1, 'solver': 'liblinear'}"
+Random Forest,0.8879716901456032,"{'max_depth': 5, 'min_samples_split': 5, 'n_estimators': 200}"
+SVM,0.8938476177606614,"{'C': 0.5, 'gamma': 0.1, 'kernel': 'rbf'}"

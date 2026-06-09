@@ -1,0 +1,4 @@
+Best overall model by ROC-AUC: Logistic Regression (0.9556)
+Recall is especially important in this medical prediction task because false negatives mean missed disease cases.
+Logistic Regression and SVM benefit from scaling, while Random Forest also provides feature importance for interpretability.
+The final model choice should consider not only accuracy, but also recall, F1-score, ROC-AUC, and interpretability.
