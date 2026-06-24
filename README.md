@@ -657,11 +657,7 @@ Future enhancements:
 
 # 👩‍💻 Author
 
-
-**Your Name**
-
-AI / Machine Learning Developer
-
+Built ❤️ by <a href="https://github.com/IleeshaUdari"><strong>M.G.Ileesha Udari Sasmitha</strong></a>
 
 ---
 
